@@ -64,6 +64,3 @@ public boolean equal(Ellipse otherEllipse) {
 
         return (sameA && sameB) || (sameAReversed && sameBReversed);
 }
-
-
-
